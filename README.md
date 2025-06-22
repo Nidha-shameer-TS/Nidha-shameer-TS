@@ -3,6 +3,7 @@
 <h3 align="center">An AI + Web Developer | Innovator | Learner</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nidha-shameer-ts&label=Profile%20views&color=0e75b6&style=flat" alt="nidha-shameer-ts" /> </p>
+
 <h3 align="left">✨About Me</h3>
 
  -💻 I’m a developer with a passion for combining **AI** and **web technologies** to build smart, secure, and helpful tools.
@@ -16,6 +17,7 @@
 <a href="https://linkedin.com/in/nidha shameer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nidha shameer" height="30" width="40" /></a>
 <a href="https://instagram.com/nidhha_aa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nidhha_aa" height="30" width="40" /></a>
 <a href="mailto:nidhu.shameer@gmail.com" target="_blank"><img align="center" alt="Email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"  height="30" ></a>
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -25,4 +27,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nidha-shameer-ts&show_icons=true&locale=en" alt="nidha-shameer-ts" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nidha-shameer-ts&" alt="nidha-shameer-ts" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nidha-shameer-ts&theme=radical" alt="nidha-shameer-ts" /></p>
+
+
+ ![snake gif](https://github.com/Nidha-shameer-TS/Nidha-shameer-TS/blob/output/github-snake-dark.svg)
