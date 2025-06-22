@@ -30,4 +30,4 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nidha-shameer-ts&theme=radical" alt="nidha-shameer-ts" /></p>
 
 
- ![snake gif](https://github.com/Nidha-shameer-TS/Nidha-shameer-TS/blob/output/ocean.gif)
+ ![snake gif](https://github.com/Nidha-shameer-TS/Nidha-shameer-TS/blob/output/github-snake-dark.svg)
